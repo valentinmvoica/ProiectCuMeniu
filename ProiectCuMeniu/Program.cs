@@ -37,8 +37,10 @@ namespace Catalog
                     switch (option) //In functie de optiune se intampla o alta actiune
                     {
                         case "1":
+                            /// aici afisam toti studentii din catalog
                             break;
                         case "2":
+                            /// aici citim id-ul de la tastatura si afisam studentul cu id-ul citit...
                             break;
                         case "3":
                             break;
